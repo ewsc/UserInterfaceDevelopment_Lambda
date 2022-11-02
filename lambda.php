@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html style="margin: 0 auto; max-width: 1600px;">
+<html style="margin: 0 auto;">
 
 <head>
 	<title>alamov.tech - lambda</title>
@@ -34,7 +34,7 @@
 </div>
 
 <div class="position-relative">
-    <div data-src="lambda_resources/back1.png" uk-img style="height: 748px;" style="background-repeat: no-repeat;">
+    <div data-src="lambda_resources/back1.png" uk-img style="height: 748px;" class="background-cover">
         <div class="position-center">
             <h1 class="motto-font">the right ingredients<br>for the right food</h1><br>
             <div class="">
@@ -73,13 +73,13 @@
 </div>
 
 <div class="position-relative">
-    <div data-src="lambda_resources/back2.png" uk-img style="height: 710px;"> 
+    <div data-src="lambda_resources/back2.png" uk-img style="height: 710px;" class="background-cover"> 
         <div class="position-center">
             <div class="dikiy-flex dikiy-flex-center dikiy-flex-middle margin-top">
                 <div>
                     <div>
                         <div class="about-heading">Just the right food</div>
-                        <img src="lambda_resources/divider_gold.png" class="align-center">
+                        <img src="lambda_resources/divider_gold.png" class="align-center margin-top">
                         <div class="about-text">If you’ve been to one of our restaurants, you’ve seen – and<br>tasted – what keeps our customers coming back for more.<br>Perfect materials and freshly baked food, delicious Lambda<br>cakes, muffins, and gourmet coffees make us hard to resist!<br>Stop in today and check us out!</div>
                         <img src="lambda_resources/cook.png" alt="" class="align-center margin-medium-top">
                     </div>
@@ -93,7 +93,7 @@
 </div>
 
 <div class="position-relative">
-    <div data-src="lambda_resources/back3.png" uk-img style="height: 754px;">
+    <div data-src="lambda_resources/back3.png" uk-img style="height: 754px;" class="background-cover">
         <div class="position-center-right margin-xlarge-right">
             <div class="dikiy-flex-middle margin-large-right">
                 <div class="info-box padding-large">
@@ -112,7 +112,7 @@
 </div>
 
 <div class="position-relative">
-    <div data-src="lambda_resources/back4.png" uk-img style="height: 1000px;">
+    <div data-src="lambda_resources/back4.png" uk-img style="height: 1000px;" class="background-cover">
         <div class="position-center">
             <div class="dikiy-flex dikiy-flex-middle dikiy-flex-center">
                 
@@ -301,13 +301,13 @@
 </div>
 
 <div class="position-relative">
-    <div data-src="lambda_resources/back5.png" uk-img style="height: 752px;">
+    <div data-src="lambda_resources/back5.png" uk-img style="height: 752px;" class="background-cover">
         <div class="position-center">
             <div class="dikiy-flex-middle">
                 <div class="info-box padding-large">
                     <div class="info-box-header">Guest Reviews</div>  
                     <img src="lambda_resources/divider-box.png" class="align-center">
-                    <span class="quote-mark position-absolute" style="left: 5%; top: 40%">“</span>
+                    <span class="quote-mark position-absolute" style="left: 7%; top: 30%">“</span>
                     <div class="info-box-text-extra text-center">If you’ve been to one of our restaurants, you’ve seen– <br>and tasted – what keeps our customers coming back for<br> more. Perfect materials and freshly baked food,<br>delicious Lambda cakes, muffins, and gourmet coffees<br>make us hard to resist! Stop in today and check us out!</div>    
                     <div class="text-center info-box-text-author margin-top">- food inc, New York</div>
                 </div>
@@ -317,7 +317,7 @@
 </div>
 
 <div class="position-relative">
-    <div data-src="lambda_resources/back2.png" uk-img style="height: 710px;">
+    <div data-src="lambda_resources/back2.png" uk-img style="height: 710px;" class="background-cover">
         <div class="position-center">
             <div class="dikiy-flex dikiy-flex-middle dikiy-flex-center">
                 <div>
@@ -328,7 +328,7 @@
                 <div class="margin-large-left">
                     <div>
                         <div class="about-heading">Just the right food</div>
-                        <img src="lambda_resources/divider_gold.png" class="align-center">
+                        <img src="lambda_resources/divider_gold.png" class="align-center margin-top">
                         <div class="about-text">If you’ve been to one of our restaurants, you’ve seen – and<br>tasted – what keeps our customers coming back for more.<br>Perfect materials and freshly baked food.</div>
                         <div class="about-text margin-medium-top">Delicious Lambda cakes,  muffins, and gourmet coffees make<br>us hard to resist! Stop in today and check us out! Perfect<br>materials and freshly baked food.</div>
                     </div>
@@ -384,7 +384,7 @@
 </div>
 
 <div class="position-relative"> 
-    <div data-src="lambda_resources/back6.png" uk-img style="height: 320px;">
+    <div data-src="lambda_resources/back6.png" uk-img style="height: 320px;" class="background-cover">
         <div class="position-center">
             <div class="dikiy-flex">
                 <div class="width-1-3 margin-medium-left">
