@@ -253,6 +253,9 @@ hr {
     text-align: center;
 }
 
+.background-cover {
+    background-repeat: no-repeat; background-size: cover;
+}
 
 .preloader_loader {
     position: relative;
